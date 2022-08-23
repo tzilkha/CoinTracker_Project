@@ -142,10 +142,10 @@ The project was done in a virtual environment that is made easy to replicate.
 
 1. Create a virtual environment
 
-	# If machine doesn't have virtualenv
+	If machine doesn't have virtualenv
 	pip3 install virtualenv
 
-	# Create environment
+	Create environment
   	python3 -m venv tz_demo/venv
 
 2. Activate environment
@@ -164,11 +164,11 @@ The project was done in a virtual environment that is made easy to replicate.
 
 	at - http://localhost:9000/docs#/
 
-	# This is also a playground to play with the API. Of course CURL calls can be made for more automatic testing, CURL calls can be copied straight from documentation.
+	This is also a playground to play with the API. Of course CURL calls can be made for more automatic testing, CURL calls can be copied straight from documentation.
 
 5. Close the DB and API server
 
-	# Simply stop the execution
+	Simply stop the execution
 
 6. Deactivate virtual environment
 
